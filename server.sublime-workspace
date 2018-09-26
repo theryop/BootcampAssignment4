@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"listingsRouter"
+			],
+			[
+				"listi",
+				"ListingJSON"
+			],
+			[
+				"Listing",
+				"ListingRaw"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/README.md",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server/tests/listings.server.routes.test.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/JSONtoMongo.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server/config/config.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server/config/app.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server/routes/listings.server.routes.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server/config/config.example.js",
+		"/C/Program Files/MongoDB/Server/4.0/README",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/.gitignore",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/listing.model.test.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/links.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server/models/listings.server.model.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server/config/config.",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server/controllers/listings.server.controller.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/client/js/factories/listingFactory.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/server/config/express.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/config.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/queries.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/ListingSchema.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/README.md",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/listings.json",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/BootcampAssignment4/README.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/COP 4600/Assignments/hw2-2.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/COP 4600/Assignments/Projects/p0.diff",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/EGN 4641/8-22_notes.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/listingController.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/FreeCodeCamp/AppliedVisualDesign.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/FreeCodeCamp/BasicHTML.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/index.html",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/listingFactory.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/COP 4600/Assignments/Projects/P0ReportTheryop.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/COP 4600/p0.diff",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/8-23_notes.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/server.test.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/server.js",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/FreeCodeCamp/BasicCSS.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/COP 4600/8-23_notes.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/CEN 3031/program-files/UF-Directory-App-Assignment/simpleServer.js",
+		"/C/Users/thery/Documents/dnd/EEDndnotes.txt",
+		"/C/Users/thery/Documents/dnd/tyler-hook.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/COP 4600/8-23_notes.txxt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/FreeCodeCamp.txt",
+		"/C/Users/thery/Documents/RunescapeGoals.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/EGS 4034/8-22_notes.txt",
+		"/C/Users/thery/Documents/Class Files/Fall 2018/EGS 4034/8-22_notes",
+		"/C/Users/thery/Downloads/Deck - BR Undying Goblins.txt",
+		"/C/Users/thery/Documents/EEDndnotes.txt",
+		"/C/Program Files/Sublime Text 3/Yun Storyline.txt",
+		"/C/Users/thery/Downloads/Haig storyline.txt",
+		"/C/Users/thery/Documents/how to push myself while not shutting down.txt",
+		"/C/Users/thery/Documents/RAILS STUDYING.txt",
+		"/C/Users/thery/Documents/Zen Buddhism Vs. Therevada Buddhism",
+		"/C/Users/thery/Documents/Class Files/DS notes",
+		"/C/Users/thery/Documents/Class Files/version-control/recipes/recipes/cake-recipe.txt",
+		"/C/Users/thery/Desktop/usecases.txt",
+		"/C/Users/thery/Documents/Class Files/Chat2/check.js",
+		"/C/Users/thery/Documents/Class Files/Chat2/index.php",
+		"/C/Users/thery/Documents/Class Files/Chat2/main.css",
+		"/C/Users/thery/Documents/Class Files/version-control/lesson_3_reflections.txt",
+		"/C/Users/thery/Documents/Textbooks/Web Development/rails5-code/code/rails50/depot_b/app/models/product.rb",
+		"/C/Users/thery/Documents/Class Files/version-control/asteroids/game.js",
+		"/C/Users/thery/Documents/Class Files/version-control/lesson_2_reflections.txt",
+		"/C/Users/thery/Documents/Class Files/version-control/recipes/recipes/chili-recipe.txt",
+		"/C/Users/thery/Documents/Class Files/version-control/recipes/recipes/sandwich-recipe.txt",
+		"/C/Users/thery/Documents/Class Files/version-control/pappu-pakia/js/pappu.js",
+		"/C/Users/thery/Documents/Class Files/version-control/lesson_1_reflections.txt",
+		"/C/Users/thery/Documents/Textbooks/Web Development/rails5-code/code/rails50/depot_a/db/migrate/20160330000001_create_products.rb",
+		"/C/Users/thery/Documents/Class Files/version-control/application.yml",
+		"/C/Users/thery/Documents/Zen Notes",
+		"/C/Users/thery/.ssh/id_rsa.pub",
+		"/C/Users/thery/.ssh/id_rsa",
+		"/C/Users/thery/Desktop/Emails.txt",
+		"/C/Users/thery/AppData/Local/Temp/proj2sp17.txt",
+		"/C/Users/thery/AppData/Local/Temp/scp13073/etc/passwd"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
